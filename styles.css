@@ -1,0 +1,59 @@
+body {
+  font-family: Signika;
+  font-size: 16px;
+  line-height: 24px;
+  color: #CAC0B6;
+  background-color: #1C1317;}
+
+.container .fill-height {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.landing-page {
+  background-image: url("https://cdn-media.kontinentalist.com/sexual-assault-and-abuse-in-singapore-need-more-than-the-law/sexual-assault-and-abuse-in-singapore-need-more-than-the-law-1630244351.jpg");
+  height: 100vh;
+}
+
+.landing-page-text {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  text-align: center;
+  color: #cac0b6;
+}
+
+.theme {
+  font-family: Signika;
+  font-size: 24px!important;
+  line-height: 32px;
+  margin-bottom: 16px;
+}
+
+
+h1 {
+  font-family: Alegreya;
+  color: #ffafa4;
+  font-size: 60px!important;
+  font-weight: bold;
+  line-height: 68px;
+  margin-bottom: 24px;
+}
+a {color: inherit;}
+a: hover {text-decoration:none!important;}
+
+.credit-text {
+  font-size: 16px!important;
+  line-height: 24px!important;
+  font-weight: 700!important;
+  margin-bottom: 32px;
+
+}
+
+.story-cover-social {margin-top: 16px!important; margin-bottom: 16px!important; }
+
+.synopsis {
+  font-size: 20px!important;
+  line-height: 32px;
+  margin-bottom: 16px;
+}
